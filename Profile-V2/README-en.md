@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB+Boas+Vindas!;Desenvolvedor+Frontend;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+Welcome!;Frontend+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 </div>
@@ -15,26 +15,30 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 <!-- <img align="right" width="533" height="300" src="./assets/progamming.gif" alt="Imagem"> -->
-<br><br>
-
-<h3> Sobre mim</h3>
-
-- 💻 Sou Desenvolvedor FrontEnd autodidata
-  
-- 📚 Sou Técnico em Informática para Internet
-  
-- 📝 Tenho forte interesse sistemas web
-  
-- 🌱 Aprendendo JavaScript, ReactJS, NextJS e UI/UX Design
-  
-- ⚡ Interessado em aplicações web voltadas para acessibilidade
-  
-- 🎵 Amo Power metal e Eletrônica synthwave
 
 <br><br>
 
-<h3> Minhas Skills & Ferramentas</h3>
+<h3> About me</h3>
+
+- 💻 I'm a self-taught Front End Developer 
+
+- 📚 I'm an Internet Technician </li>
+
+- 📝 I have a strong interest in web systems
+
+- 🌱 Learning JavaScript, ReactJS, NextJS and UI/UX Design 
+
+- ⚡ Interested in accessibility-oriented web applications
+
+- 🎵 I love power metal and synthwave electronics
+
+
+
+<br><br>
+
+<h3> Skills & Tools </h3>
 
 <div align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-405DE6?style=for-the-badge&logo=HTML5&logoColor=white">
