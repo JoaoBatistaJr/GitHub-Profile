@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaobatistajr&color=405DE6" alt="Profile views" /> 
- <a href="https://github.com/JoaoBatistaJr/JoaoBatistaJr/blob/master/README-en.md"><img width="25" height="25" align="right" src="https://img.icons8.com/color/25/usa.png" alt="usa"/>
-</p>
+<a href="https://github.com/JoaoBatistaJr/JoaoBatistaJr/blob/master/README.md"><img width="25" height="25" align="right" src="https://img.icons8.com/color/25/brazil.png" alt="brazil"/></p>
 
 <p align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB+Welcome!;Frontend+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
